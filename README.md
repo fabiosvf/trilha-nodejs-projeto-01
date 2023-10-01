@@ -10,7 +10,7 @@
 - Aprenderemos sobre módulos internos do Node.js coo HTTP, Crypto e File System e sobre fundamentos HTTP como requests, responses, headers, status code, route e query parameters, etc.
 - Também daremos profundidade em Streams no Node.js e como aplicá-las para realizarmos operações assíncronas e parciais em nosso back-end.
 
-## Como Excutar
+## Como Executar
 
 - Crie uma pasta para o projeto
 - Acesse a pasta
